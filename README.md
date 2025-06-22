@@ -1,9 +1,15 @@
 <!-- Profil README GitHub Faraj Hafidh -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,100:b91d73&height=120&section=header"/>
+</p>
 
 # 👋 Halo, saya Faraj Hafidh!
 🎓 Mahasiswa Teknik Informatika
-📊 Data enthusiast | Data Analyst | Problem Solver   
+
+📊 Data enthusiast | Data Analyst | Problem Solver 
+
 🚀 Saat ini sedang mengembangkan skill pada posisi data analyst
+
 ---
 
 ## 💡 Tentang Saya
@@ -36,5 +42,18 @@ Saya memiliki minat besar dalam pengolahan data, serta visualisasi data untuk me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faraj.hafidh@gmail.com)
 
 ---
+## 💹 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TachooDa&theme=github-compact" />
+</p>
 
+
+## 🗿 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TachooDa&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=TachooDa&theme=radical&hide_border=true" />
+</p>
 > _"Belajar bukan tentang menjadi yang terbaik, tapi menjadi lebih baik dari dirimu yang kemarin."_ 🧠🔥
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,100:b91d73&height=120&section=footer"/>
+</p>
