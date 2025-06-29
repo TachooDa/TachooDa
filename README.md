@@ -4,9 +4,9 @@
 </p>
 
 # 👋 Halo, saya Faraj Hafidh!
-🎓 Mahasiswa Teknik Informatika
+🎓 Bachelor degree of Informatics Engineering 
 
-📊 Data enthusiast | Data Analyst | Problem Solver 
+📊 Data enthusiast | Data Analyst | 
 
 🚀 Saat ini sedang mengembangkan skill pada posisi data analyst
 
