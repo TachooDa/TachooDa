@@ -8,12 +8,12 @@
 
 📊 Data enthusiast | Data Analyst | 
 
-🚀 Saat ini sedang mengembangkan skill pada posisi data analyst
+🚀 I am currently developing my skills as a data analyst
 
 ---
 
 ## 💡 Tentang Saya
-Saya memiliki minat besar dalam pengolahan data, serta visualisasi data untuk membantu proses pengambilan keputusan. Aktif belajar dan membangun proyek nyata menggunakan teknologi yang saya kuasai.
+I have a strong interest in data processing and data visualization to support decision-making. I actively learn and build real-world projects using the technologies I’ve mastered.
 
 ---
 
