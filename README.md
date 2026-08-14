@@ -34,9 +34,6 @@ Sharpening SQL and Python fundamentals through real analysis projects, and getti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP"/>
 </td>
 <td align="center" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="32" height="32" alt="CodeIgniter"/>
-</td>
-<td align="center" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas"/>
 </td>
 </tr>
@@ -45,7 +42,6 @@ Sharpening SQL and Python fundamentals through real analysis projects, and getti
 <td align="center"><sub>Postgres</sub></td>
 <td align="center"><sub>MySQL</sub></td>
 <td align="center"><sub>PHP</sub></td>
-<td align="center"><sub>CodeIgniter</sub></td>
 <td align="center"><sub>Pandas</sub></td>
 </tr>
 </table>
