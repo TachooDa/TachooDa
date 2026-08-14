@@ -1,56 +1,84 @@
-<!-- Profil README GitHub Faraj Hafidh — Two-column dashboard layout -->
+<!-- Profil README GitHub Faraj Hafidh — Refined two-column dashboard layout -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=4&section=header"/>
+</p>
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-# Hi, I'm Faraj 👋
-**Data Analyst** · turning data into decisions
+<h1 align="left">Faraj Hafidh</h1>
+<p><strong>Data Analyst</strong> — turning raw data into decisions people can act on</p>
 
-🎓 Bachelor's Degree in Informatics Engineering
-📊 Data Enthusiast | Data Analyst
-🚀 Currently developing my skills as a data analyst
+<p>
+Bachelor's degree in Informatics Engineering, currently building depth in data processing and visualization. I like working close to the data — cleaning it, querying it, and shaping it into something a non-technical stakeholder can actually use.
+</p>
 
-I have a strong interest in data processing and data visualization to support decision-making. I actively learn and build real-world projects using the technologies I've mastered.
+<p><strong>Currently focused on</strong><br/>
+Sharpening SQL and Python fundamentals through real analysis projects, and getting more fluent with dashboarding tools.</p>
 
-**Tech Stack**
+<br/>
 
-<img src="https://img.shields.io/badge/Python-1f6feb22?style=flat-square&logo=python&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/SQL-1f6feb22?style=flat-square&logo=postgresql&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MySQL-1f6feb22?style=flat-square&logo=mysql&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1f6feb22?style=flat-square&logo=postgresql&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/PHP-1f6feb22?style=flat-square&logo=php&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/CodeIgniter-1f6feb22?style=flat-square&logo=codeigniter&logoColor=58a6ff&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Pandas-1f6feb22?style=flat-square&logo=pandas&logoColor=58a6ff&labelColor=161b22"/>
+<table>
+<tr>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
+</td>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/>
+</td>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL"/>
+</td>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP"/>
+</td>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="32" height="32" alt="CodeIgniter"/>
+</td>
+<td align="center" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas"/>
+</td>
+</tr>
+<tr>
+<td align="center"><sub>Python</sub></td>
+<td align="center"><sub>Postgres</sub></td>
+<td align="center"><sub>MySQL</sub></td>
+<td align="center"><sub>PHP</sub></td>
+<td align="center"><sub>CodeIgniter</sub></td>
+<td align="center"><sub>Pandas</sub></td>
+</tr>
+</table>
 
-**Connect**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/faraj-hafidh-0a0527217)
-[![Instagram](https://img.shields.io/badge/-Instagram-161b22?style=flat-square&logo=instagram&logoColor=white&labelColor=161b22)](https://instagram.com/hahahafidh_)
-[![Email](https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:faraj.hafidh@gmail.com)
+<a href="https://www.linkedin.com/in/faraj-hafidh-0a0527217">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://instagram.com/hahahafidh_">Instagram</a> &nbsp;·&nbsp;
+<a href="mailto:faraj.hafidh@gmail.com">Email</a>
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TachooDa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TachooDa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TachooDa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TachooDa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=TachooDa&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=TachooDa&theme=dark&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TachooDa&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3" width="100%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TachooDa&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TachooDa&style=flat-square&color=blue"/>
 </p>
 
 <p align="center">
-  <em>"Belajar bukan tentang menjadi yang terbaik, tapi menjadi lebih baik dari dirimu yang kemarin."</em>
+  <sub><em>"Belajar bukan tentang menjadi yang terbaik, tapi menjadi lebih baik dari dirimu yang kemarin."</em></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=4&section=footer"/>
 </p>
