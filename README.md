@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Turning+raw+data+into+decisions+people+can+act+on;Cleaning+%C2%B7+Querying+%C2%B7+Visualizing;Currently+leveling+up+SQL+%2B+Python+fundamentals"/>
+  <sub><strong>Turning raw data into decisions people can act on</strong> — Cleaning · Querying · Visualizing</sub>
 </p>
 
 <table width="100%">
@@ -55,7 +55,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TachooDa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=TachooDa&theme=dark&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=TachooDa&theme=dark&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="100%"/>
 
 </td>
 </tr>
